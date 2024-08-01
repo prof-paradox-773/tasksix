@@ -1,0 +1,14 @@
+HEROKU
+
+Heroku is a cloud platform as a service (PaaS) supporting several programming languages. As one of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now also supports Java, Node.
+STEP 1
+Creating a username and password using gmail ID 
+STEP 2
+Verification of the gmail ID through link 
+STEP 3
+Creating a secure Two -way Authentication using one of the many ways like creating a device to authenticate
+Using an authentication app to login 
+STEP 4
+Login in by scanning the QR code and giving the multifactor authentication keys
+STEP 5
+You will be logged into the user account page
